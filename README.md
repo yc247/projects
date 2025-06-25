@@ -2,7 +2,7 @@
 
 **Improving interview preparation with an AI-powered assistant built on large language models**
 
-Inspired by the challenges many face when preparing for data science interviews, we created LiA to help job seekers better prepare for technical interviews. Motivated by our own experiences entering the data science field, we built an AI-powered tool that dynamically generates personalized interview questions, simulates mock interviews, and provides feedback. LiA leverages large language models with retrieval-augmented generation (RAG) and is fully deployed on Google Cloud to deliver a seamless, interactive experience.
+Motivated by our own experiences entering the data science field, we built an AI-powered tool that dynamically generates personalized interview questions, simulates mock interviews, and provides feedback. LiA leverages large language models with retrieval-augmented generation (RAG) and is fully deployed on Google Cloud to deliver a seamless, interactive experience.
 
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -15,7 +15,7 @@ Inspired by the challenges many face when preparing for data science interviews,
 
 **Modeling chronic illness through synthetic data: A research study on diabetes management and analytics**
 
-In this project, my team and I conducted a research study on diabetes using a fully synthetic patient challenges around healthcare privacy and limited data availability. We simulated realistic health metrics for 10,000 individuals over 90 days, including blood glucose levels, cholesterol, blood pressure, and insulin dosage. By applying descriptive, predictive, and prescriptive analytics, we uncovered trends in disease progression, modeled anomalies, and generated actionable insights to inform personalized diabetes care.
+In this project, my team and I conducted a research study on diabetes using a fully synthetic patient challenges around healthcare privacy and limited data availability. We simulated realistic health metrics for 10,000 individuals over 90 days to uncover trends in diabetes.
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -28,9 +28,7 @@ In this project, my team and I conducted a research study on diabetes using a fu
 
 **Forecasting Rideshare Fares in Chicago Using Time Series Models**
 
-This project explores the use of time series forecasting to predict rideshare fare prices across Chicago using historical trip-level data from the city’s open data portal. Addressing the challenge of pricing variability across platforms like Uber and Lyft, the analysis focuses on estimating average fare per mile by region and time. 
-
-After cleaning and aggregating over 5 million records, various models—including Prophet, SARIMA, and VAR—were applied to capture seasonal trends and improve forecasting accuracy. The resulting system supports location-based fare prediction, enhancing pricing transparency and operational planning for both users and providers.
+This project explores the use of time series forecasting to predict rideshare fare prices across Chicago using historical trip data from the city’s data portal. After cleaning and aggregating over 5 million records, various models—including Prophet, SARIMA, and VAR—were applied to capture seasonal trends and improve forecasting accuracy.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
